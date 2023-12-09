@@ -1,6 +1,9 @@
 # 3. Longest Substring Without Repeating Characters
 
 ![Medium](https://img.shields.io/badge/Medium-yellow)
+![Hash Table](https://img.shields.io/badge/-Hash%20Table-grey)
+![String](https://img.shields.io/badge/-String-grey)
+![Sliding Window](https://img.shields.io/badge/-Sliding%20Window-grey)
 
 Given a string `s`, find the length of the **longest substring** without repeating characters.
 
